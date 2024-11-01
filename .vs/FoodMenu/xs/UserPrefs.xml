@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{D9818E5E-F4E5-41D8-967D-F08F39F4A6DB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodMenu/Data/Seed.cs">
+    <Files>
+      <File FileName="FoodMenu/Models/DishIngredient.cs" />
+      <File FileName="FoodMenu/Data/ApplicationDbContext.cs" />
+      <File FileName="FoodMenu/appsettings.json" />
+      <File FileName="FoodMenu/Program.cs" Line="30" Column="1" />
+      <File FileName="FoodMenu/Controllers/MenuController.cs" />
+      <File FileName="FoodMenu/Views/Menu/Index.cshtml" />
+      <File FileName="FoodMenu/Views/Menu/Details.cshtml" />
+      <File FileName="FoodMenu/Controllers/HomeController.cs" />
+      <File FileName="FoodMenu/Data/Seed.cs" Line="91" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodMenu" expanded="True">
+            <Node name="FoodMenu" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Seed.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Menu" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FoodMenu PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

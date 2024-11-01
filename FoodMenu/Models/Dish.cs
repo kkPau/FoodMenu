@@ -1,0 +1,21 @@
+﻿using System;
+namespace FoodMenu.Models
+{
+	public class Dish
+	{
+		public Dish()
+		{
+		}
+
+		public int Id { get; set; }
+
+		public string Name { get; set; }
+
+		public string ImageUrl { get; set; }
+
+		public double Price { get; set; }
+
+		public List<DishIngredient>? DishIngredient { get; set; }
+	}
+}
+
